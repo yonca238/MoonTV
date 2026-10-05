@@ -3,94 +3,90 @@
   "api_site": {
     "dyttzy": {
       "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
-      "name": "电影天堂资源",
+      "name": "鐢靛奖澶╁爞璧勬簮",
       "detail": "http://caiji.dyttzyapi.com"
     },
     "ruyi": {
       "api": "http://cj.rycjapi.com/api.php/provide/vod",
-      "name": "如意资源"
+      "name": "濡傛剰璧勬簮"
     },
     "bfzy": {
       "api": "https://bfzyapi.com/api.php/provide/vod",
-      "name": "暴风资源"
+      "name": "鏆撮璧勬簮"
     },
     "ffzy": {
       "api": "http://ffzy5.tv/api.php/provide/vod",
-      "name": "非凡影视",
+      "name": "闈炲嚒褰辫",
       "detail": "http://ffzy5.tv"
     },
     "zy360": {
       "api": "https://360zy.com/api.php/provide/vod",
-      "name": "360资源"
+      "name": "360璧勬簮"
     },
     "jisu": {
       "api": "https://jszyapi.com/api.php/provide/vod",
-      "name": "极速资源",
+      "name": "鏋侀€熻祫婧?,
       "detail": "https://jszyapi.com"
     },
     "mdzy": {
       "api": "https://www.mdzyapi.com/api.php/provide/vod",
-      "name": "魔都资源"
+      "name": "榄旈兘璧勬簮"
     },
     "zuid": {
       "api": "https://api.zuidapi.com/api.php/provide/vod",
-      "name": "最大资源"
+      "name": "鏈€澶ц祫婧?
     },
     "ikun": {
       "api": "https://ikunzyapi.com/api.php/provide/vod",
-      "name": "iKun资源"
+      "name": "iKun璧勬簮"
     },
     "lzi": {
       "api": "https://cj.lziapi.com/api.php/provide/vod",
-      "name": "量子资源站"
+      "name": "閲忓瓙璧勬簮绔?
     },
     "ukuapi": {
       "api": "https://api.ukuapi.com/api.php/provide/vod",
-      "name": "U酷资源"
+      "name": "U閰疯祫婧?
     },
     "guangsuapi": {
       "api": "https://api.guangsuapi.com/api.php/provide/vod",
-      "name": "光速资源"
+      "name": "鍏夐€熻祫婧?
     },
     "xinlangapi": {
       "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
-      "name": "新浪点播"
+      "name": "鏂版氮鐐规挱"
     },
     "wujinapi": {
       "api": "https://api.wujinapi.com/api.php/provide/vod",
-      "name": "无尽资源"
+      "name": "鏃犲敖璧勬簮"
     },
     "apibdzy": {
       "api": "https://api.apibdzy.com/api.php/provide/vod",
-      "name": "百度云资源"
+      "name": "鐧惧害浜戣祫婧?
     },
     "zyku1080": {
       "api": "https://api.1080zyku.com/inc/apijson.php/",
-      "name": "神马云"
+      "name": "绁為┈浜?
     },
     "hongniuzy2": {
       "api": "https://www.hongniuzy2.com/api.php/provide/vod",
-      "name": "红牛资源"
+      "name": "绾㈢墰璧勬簮"
     },
     "huyaapi": {
       "api": "https://www.huyaapi.com/api.php/provide/vod",
-      "name": "虎牙资源"
+      "name": "铏庣墮璧勬簮"
     },
     "hhzyapi": {
       "api": "https://hhzyapi.com/api.php/provide/vod",
-      "name": "豪华资源"
+      "name": "璞崕璧勬簮"
     },
     "jinyingzy": {
       "api": "https://jinyingzy.com/api.php/provide/vod",
-      "name": "金鹰点播"
-    },
-    "xiaojizy": {
-      "api": "https://api.xiaojizy.live/provide/vod",
-      "name": "小鸡资源"
+      "name": "閲戦拱鐐规挱"
     },
     "iqiyizyapi": {
       "api": "https://www.iqiyizyapi.com/api.php/provide/vod",
-      "name": "爱奇艺资源"
+      "name": "鐖卞鑹鸿祫婧?
     }
   }
 }

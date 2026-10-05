@@ -84,10 +84,6 @@
       "api": "https://jinyingzy.com/api.php/provide/vod",
       "name": "金鹰点播"
     },
-    "xiaojizy": {
-      "api": "https://api.xiaojizy.live/provide/vod",
-      "name": "小鸡资源"
-    },
     "iqiyizyapi": {
       "api": "https://www.iqiyizyapi.com/api.php/provide/vod",
       "name": "爱奇艺资源"
